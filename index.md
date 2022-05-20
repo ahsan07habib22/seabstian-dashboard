@@ -26,7 +26,6 @@ Open boundary conditions for wave model have been derived from global wave model
 div {
   height: 200px;
   width: 100%;
-  background-color: powderblue;
 }
 </style>
   
