@@ -35,7 +35,8 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <h1> Real Time Forecast</h1>
 <h3> Parameters Predicted </h3>
-<a href="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC"></a>
+  
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
   
 <ul>
     <li>Water level</li>
